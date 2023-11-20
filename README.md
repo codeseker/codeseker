@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @codeseker
-- 👀 I’m interested in Learining new things and reading new books
+- 👀 I’m interested in Learning new things and reading new books
 - 🌱 I’m currently learning Front-End development and Data Structures and Algorithms in C++
 
 <!---
